@@ -10,7 +10,7 @@ _**Under construction!**_
 
 {% include figure.html path="assets/img/ddot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 <div class="caption">
-    Close up of two quantum dots and point contacts wirebonded to a chip carrier.  
+    Close up of two quantum dots and point contacts wire-bonded to a chip carrier.  
 </div>
 
 <div class="row justify-content-sm-center">

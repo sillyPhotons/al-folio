@@ -33,7 +33,7 @@
     description:
       - 'Advised by <a href="https://scholar.google.com/citations?user=0D4-m-cAAAAJ" target="_blank"><b>Dr. Joshua Folk</b></a>' 
       - "Design and fabrication of nanoscale quantum devices on GaAs/AlGaAs heterostructures using photolithography and electron beam lithography techniques"
-      - "DC and AC transport measurements of quantum devices at 10 mK in a dilution refridgerator"
+      - "DC and AC transport measurements of quantum devices at 10 mK in a dilution refrigerator"
       - "Design and fabrication of um-scale filters for device thermalization"
       - 'Developing programs for robust instrumentation using <a href="https://github.com/QCoDeS/Qcodes" target="_blank"><b><code>QCoDeS</code></b></a> and <code>Igor Pro</code> '
 
