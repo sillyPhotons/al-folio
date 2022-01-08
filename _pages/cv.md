@@ -5,7 +5,7 @@ title: Curriculum Vitae
 nav: cv
 ---
 
-_**Under development!**_
+_**Under construction!**_
 
 <!-- Place PDF download link at the top right. -->
 <div class="row" style="margin-top: -3.5em;">
