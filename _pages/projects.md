@@ -1,14 +1,16 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here's a peak into my ongoing and past projects! 🙂
 nav: true
 display_categories: 
 horizontal: false
 
 years: [2021, 2020]
 ---
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -57,7 +59,7 @@ years: [2021, 2020]
   {%- endif -%}
 {%- endif -%}
 </div>
-<!-- 
+
 <div class="publications">
 
 {%- for y in page.years %}
@@ -65,4 +67,4 @@ years: [2021, 2020]
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div> -->
+</div>

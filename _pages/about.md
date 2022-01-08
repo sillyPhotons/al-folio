@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='phas.ubc.ca/~qdev/'>Quantum Devices Group</a>, UBC, Vancouver
 
