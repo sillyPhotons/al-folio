@@ -27,3 +27,15 @@ _**Under construction!**_
 <div class="caption">
     Nice figures I took during the design, fabrication, and testing process. 
 </div>
+
+<div class="row">
+    <div class="col-sm">
+        {% include figure.html path="assets/img/dat372.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm">
+        {% include figure.html path="assets/img/dat385.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Coulomb diamonds measured in a quantum dot using transport through the dot. Within the diamond, the number of electrons confined in the dot is constant. 
+</div>
