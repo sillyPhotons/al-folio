@@ -128,8 +128,25 @@
   # - name: Operating Systems
   #   value: Ubuntu Linux, Windows
 
-
-
+- title: Relevant Coursework
+  type: table
+  contents:
+  - title: The University of British Columbia – B.A.Sc. in Engineering Physics
+    year: 2018 - 
+    location: Canada
+    description:
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20350/COM_PHYS%20350.pdf" target="_blank"><b>PHYS 350</b></a> - Applications of Classical Mechanics, Mona Berciu
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20304/COM_PHYS%20304.pdf" target="_blank"><b>PHYS 304</b></a> - Introduction to Quantum Mechanics, Ariel Zhitnitsky
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20301/PHYS301.pdf" target="_blank"><b>PHYS 301</b></a> - Electricity and Magnetism, Joerg Rottler
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20250/PHYS250.pdf" target="_blank"><b>PHYS 250</b></a> - Introduction to Modern Physics, Thomas Mattison  
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20305/COM_MATH%20305.pdf" target="_blank"><b>MATH 305</b></a> - Applied Complex Analysis, Sven Bachmann
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20307/MATH307.pdf" target="_blank"><b>MATH 307</b></a> - Applied Linear Algebra, Markus Lange
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20257/COM_MATH%20257.pdf" target="_blank"><b>MATH 257</b></a> - Partial Differential Equations, Shamil Asgarli
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20221/ELEC%20221.pdf" target="_blank"><b>ELEC 221</b></a> - Signals and Systems, Lutz Lampe
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20204/ELEC204.pdf" target="_blank"><b>ELEC 204</b></a> - Linear Circuits, Shahriar Mirabbasi
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20431/COM_MECH%20431.pdf" target="_blank"><b>MECH 431</b></a> - Engineering Economics, Mark Hollett
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20360/MECH360.pdf" target="_blank"><b>MECH 360</b></a> - Mechanics of Materials, Xiaoliang Jin
+    - <a href="https://github.com/sillyPhotons/Notes/blob/main/CPEN%20312/COM_CPEN%20312.pdf" target="_blank"><b>CPEN 312</b></a>  - Digital Systems and Microcomputer, Jesús Calviño-Fraga
 
 # - title: Technical Projects
 #   type: table

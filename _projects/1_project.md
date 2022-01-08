@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: GaAs/AlGaAs Quantum devices 
+description: Design, fabrication, and measurement of GaAs/AlGaAs lateral quantum dots and point contacts as sensitive charge sensors
+img: assets/img/ddot.jpg
 importance: 1
 category: work
 ---
@@ -44,7 +44,7 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 
 You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
+Say you wanted to write a little about your project before you posted the rest of the images.
 You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
 
 
