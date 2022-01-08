@@ -6,6 +6,14 @@ layout: parse
 
   <!-- Head -->
   <head>
+  <!-- <style>
+    body {
+      background-image: url('{{ site.baseurl }}/assets/img/5.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;  
+      background-size: cover; 
+    }
+    </style> -->
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl | prepend: site.url }}/" />
   {%- endif -%}
