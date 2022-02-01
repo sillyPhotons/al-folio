@@ -13,9 +13,9 @@
 - title: Research Areas
   type: list
   contents:
-  - I've independently completed the full cycle of design, fabrication, and measurement of nanoscale GaAs/AlGaAs samples in millikelvin temperatures. 
-  - With the help of these technical skills, I would like to understand quantum effects that arise in 2D materials and GaAs/AlGaAs heterostructure systems, such as the integer and fractional quantum hall effect, and the Kondo effect. 
-  - I would also like to explore novel measurements such as quantum capacitance sensing!
+  # - I've independently completed the full cycle of design, fabrication, and measurement of nanoscale GaAs/AlGaAs samples in millikelvin temperatures. 
+  - I would like to understand quantum effects that arise in 2D materials and GaAs/AlGaAs heterostructure systems, such as the integer and fractional quantum hall effect, and the Kondo effect. 
+  - I would also like to explore novel measurements techniques such as quantum capacitance sensing
 - title: Education
   type: table
   contents:
