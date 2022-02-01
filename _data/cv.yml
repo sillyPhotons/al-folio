@@ -13,7 +13,9 @@
 - title: Research Areas
   type: list
   contents:
-  - I would like to understand quantum effects that arise in 2D materials and GaAs/AlGaAs heterostructure systems, such as the integer and fractional quantum hall effect, and the kondo effect. 
+  - I've independently completed the full cycle of design, fabrication, and measurement of nanoscale GaAs/AlGaAs samples in millikelvin temperatures. 
+  - With the help of these technical skills, I would like to understand quantum effects that arise in 2D materials and GaAs/AlGaAs heterostructure systems, such as the integer and fractional quantum hall effect, and the Kondo effect. 
+  - I would also like to explore novel measurements such as quantum capacitance sensing!
 - title: Education
   type: table
   contents:
@@ -31,10 +33,10 @@
     year: 2021 - 
     location: Canada
     description:
-      - 'Advised by <a href="https://scholar.google.com/citations?user=0D4-m-cAAAAJ" target="_blank"><b>Dr. Joshua Folk</b></a>' 
+      - 'Advised by <a href="https://scholar.google.com/citations?user=0D4-m-cAAAAJ" target="_blank"><b>Prof. Joshua Folk</b></a>' 
       - "Design and fabrication of nanoscale quantum devices on GaAs/AlGaAs heterostructures using photolithography and electron beam lithography"
       - "DC and AC transport measurements of quantum dots and point contacts at 10 mK in a dilution refrigerator"
-      - "Design and fabrication of um-scale filters on SiO2/Si waters for electron thermalization"
+      - "Design and fabrication of um-scale filters for electron thermalization"
       - 'Developing measurement control software using <a href="https://github.com/QCoDeS/Qcodes" target="_blank"><b><code>QCoDeS</code></b></a> and <code>Igor Pro</code> '
 
 - title: Other Project Experience
@@ -44,7 +46,7 @@
     year: Summer 2020
     location: Canada
     description:
-    - 'Advised by <a href="https://scholar.google.ca/citations?user=0p-xbugAAAAJ&hl=en" target="_blank"><b>Dr. Sarah Burke</b></a>' 
+    - 'Advised by <a href="https://scholar.google.ca/citations?user=0p-xbugAAAAJ&hl=en" target="_blank"><b>Prof. Sarah Burke</b></a>' 
     - 'Implemented measurement cursors, and data acquisition features in an Arduino oscilloscope graphical UI to be used by hundreds of first year engineering students'
     - 'Created schematics and instructional documents in anticipation for the online delivery of a lab course in January 2021'   
   - title: 'Building an autonomous recycling robot'
