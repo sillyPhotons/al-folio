@@ -13,9 +13,7 @@
 - title: Research Areas
   type: list
   contents:
-  # - I've independently completed the full cycle of design, fabrication, and measurement of nanoscale GaAs/AlGaAs samples in millikelvin temperatures. 
-  - I would like to understand quantum effects that arise in 2D materials and GaAs/AlGaAs heterostructure systems, such as the integer and fractional quantum hall effect, and the Kondo effect. 
-  - I would also like to explore novel measurements techniques such as quantum capacitance sensing
+  - I would like to study quantum effects that arise from fermionic correlation in 2D material systems such twisted double bilayer graphene 
 - title: Education
   type: table
   contents:
@@ -34,8 +32,9 @@
     location: Canada
     description:
       - 'Advised by <a href="https://scholar.google.com/citations?user=0D4-m-cAAAAJ" target="_blank"><b>Prof. Joshua Folk</b></a>' 
+      - "Assembly and measurement of multilayer van der Waals heterostructures"
       - "Design and fabrication of nanoscale quantum devices on GaAs/AlGaAs heterostructures using photolithography and electron beam lithography"
-      - "DC and AC transport measurements of quantum dots and point contacts at 10 mK in a dilution refrigerator"
+      - "DC and AC electronic transport measurements in a dilution refrigerator"
       - "Design and fabrication of um-scale filters for electron thermalization"
       - 'Developing measurement control software using <a href="https://github.com/QCoDeS/Qcodes" target="_blank"><b><code>QCoDeS</code></b></a> and <code>Igor Pro</code> '
 
