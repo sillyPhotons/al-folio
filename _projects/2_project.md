@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Van der Waals Moiré heterostructures  
-description: Electronic correlation in twisted double bilayer graphene devices 
-img: assets/img/RS3.jpg
+title: GaAs/AlGaAs Quantum devices 
+description: Design, fabrication, and measurement of GaAs/AlGaAs lateral quantum dots and point contacts as sensitive charge sensors
+img: assets/img/ddot.jpg
 importance: 1
 category: work
 ---
 _**Under construction!**_
-<!-- 
+
 <div class="row">
     <div class="col-sm">
         {% include figure.html path="assets/img/dat372.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -38,5 +38,5 @@ _**Under construction!**_
 </div>
 <div class="caption">
     Nice figures I took during the design, fabrication, and testing process. 
-</div> -->
+</div>
 
