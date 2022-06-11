@@ -2,7 +2,7 @@
 layout: page
 title: Moiré materials  
 description: Electronic correlation in twisted double bilayer graphene devices 
-img: assets/img/RS8_reduced.png
+img: assets/img/RS12.png
 importance: 1
 category: work
 ---
