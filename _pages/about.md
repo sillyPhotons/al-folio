@@ -16,8 +16,10 @@ social: true  # includes social icons at the bottom of the page
 
 [Engineering physics](https://www.engphys.ubc.ca/) undergraduate at the University of British Columbia, Vancouver, Canada. 
 
-My current research is focused on studying the strongly correlated electronic states of moiré graphene superlattices through transport and thermodynamic measurements. I appreciate a good cup of `coffee` ☕. I am actively seeking opportunities for graduate study in Physics for 2024!  
+My current research is focused on studying the strongly correlated electronic states of moiré graphene superlattices through transport and thermodynamic measurements. 
 
-Please feel free to contact me through <a href="mailto:raysu@student.ubc.ca">email</a> if you have any questions. 
+I am actively seeking opportunities for graduate study in Physics for 2024!  
 
+Please feel free to contact me through <a href="mailto:raysu@student.ubc.ca">email</a> if you have any questions ☕. 
+<!-- I appreciate a good cup of `coffee` ☕.  -->
 <!-- I fabricate my devices using the state-of-the-art electron beam lithography system (`JEOL JBX-8100FS`), and measure their transport properties in a `BlueFors XLD` dilution refrigerator.   -->
