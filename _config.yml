@@ -8,7 +8,7 @@ middle_name:
 last_name: Su
 email: raysu@student.ubc.ca
 description: # the ">" symbol means to ignore newlines until "footer_text:"
-  Hello! My name is Ray. I study engineering physics at UBC Vancouver, Canada. 
+  Hello! My name is Ray. 
 
 footer_text: 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
@@ -53,7 +53,7 @@ github_username: sillyPhotons # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: ruiheng-su-11973b202 # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: Z9fIlLcAAAAJ
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -96,11 +96,11 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
+  # news:
+  #   defaults:
+  #     layout: post
+  #   output: true
+  #   permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/

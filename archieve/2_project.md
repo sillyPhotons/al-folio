@@ -37,6 +37,5 @@ _**Under construction!**_
     </div>
 </div>
 <div class="caption">
-    Nice figures I took during the design, fabrication, and testing process. 
+    Figures I took during the design, fabrication, and testing process. 
 </div>
-

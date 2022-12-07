@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: Here's a peak into my ongoing and past projects! 🙂
+title: Publications
+permalink: /Publications/
+description: Here's a peak into my ongoing and past projects! 🙂 
 nav: true
 display_categories: 
 horizontal: false
 
-years: [2021, 2020]
+years: [2022, 2021, 2020]
 ---
 
 <!-- pages/projects.md -->

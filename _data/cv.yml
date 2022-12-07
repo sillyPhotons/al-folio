@@ -10,51 +10,51 @@
   - name: Nationality
     value: Canadian
 
-- title: Research Areas
+- title: Research Interest
   type: list
   contents:
-  - I would like to study quantum effects that arise from fermionic correlation in 2D material systems such twisted double bilayer graphene 
+  - Two-dimensional moiré materials, low-temperature transport
 - title: Education
   type: table
   contents:
   - title: The University of British Columbia – B.A.Sc. in Engineering Physics
     year: 2018 - 
     location: Canada
-    description:
-    - "Expected graduation: 2024" 
-    - "Dean's honours list"
+    # description:
+    # - "Dean's honours list"
   
 - title: Work Experience
   type: table
   contents:
-  - title: 'Research Assistant at Quantum Devices Group, UBC'
+  - title: 'Quantum Devices Group, UBC'
     year: 2021 - 
     location: Canada
     description:
       - 'Advised by <a href="https://scholar.google.com/citations?user=0D4-m-cAAAAJ" target="_blank"><b>Prof. Joshua Folk</b></a>' 
-      - "Assembly and measurement of multilayer van der Waals heterostructures"
-      - "Design and fabrication of nanoscale quantum devices on GaAs/AlGaAs heterostructures using photolithography and electron beam lithography"
-      - "DC and AC electronic transport measurements in a dilution refrigerator"
-      - "Design and fabrication of um-scale filters for electron thermalization"
+      - 'Transport and thermodynamic measurements in twisted double bilayer graphene'
+      - "Assembly of van der Waals heterostructures"
+      - "Design and nanofabrication of GaAs/AlGaAs and 2D material devices"
+      # - "DC and AC electronic transport measurements in a dilution refrigerator"
+      # - "Design and fabrication of um-scale filters for electron thermalization"
       - 'Developing measurement control software using <a href="https://github.com/QCoDeS/Qcodes" target="_blank"><b><code>QCoDeS</code></b></a> and <code>Igor Pro</code> '
 
-- title: Other Project Experience
-  type: table
-  contents:
-  - title: 'Developing an undergraduate physics lab course'
-    year: Summer 2020
-    location: Canada
-    description:
-    - 'Advised by <a href="https://scholar.google.ca/citations?user=0p-xbugAAAAJ&hl=en" target="_blank"><b>Prof. Sarah Burke</b></a>' 
-    - 'Implemented measurement cursors, and data acquisition features in an Arduino oscilloscope graphical UI to be used by hundreds of first year engineering students'
-    - 'Created schematics and instructional documents in anticipation for the online delivery of a lab course in January 2021'   
-  - title: 'Building an autonomous recycling robot'
-    year: Summer 2020
-    location: Canada
-    description:
-    - 'Prototyped, constructed, and programmed a fully autonomous robot which detects, retrieves and returns scattered soda cans to a 12-in tall recycling bin'
-    - 'Gained experience in: designing noise-tolerant electromechanical systems; circuit troubleshooting; <code>C++</code> programming; STM32 Microcontrollers'   
-  note: '<b>Note:</b> for more of my projects, please see the <a href="/projects/" target="_blank"><b>projects</b></a> page.'
+# - title: Other Project Experience
+#   type: table
+#   contents:
+#   - title: 'Developing an undergraduate physics lab course'
+#     year: Summer 2020
+#     location: Canada
+#     description:
+#     - 'Advised by <a href="https://scholar.google.ca/citations?user=0p-xbugAAAAJ&hl=en" target="_blank"><b>Prof. Sarah Burke</b></a>' 
+#     - 'Implemented measurement cursors, and data acquisition features in an Arduino oscilloscope graphical UI to be used by hundreds of first year engineering students'
+#     - 'Created schematics and instructional documents in anticipation for the online delivery of a lab course in January 2021'   
+#   - title: 'Building an autonomous recycling robot'
+#     year: Summer 2020
+#     location: Canada
+#     description:
+#     - 'Prototyped, constructed, and programmed a fully autonomous robot which detects, retrieves and returns scattered soda cans to a 12-in tall recycling bin'
+#     - 'Gained experience in: designing noise-tolerant electromechanical systems; circuit troubleshooting; <code>C++</code> programming; STM32 Microcontrollers'   
+#   note: '<b>Note:</b> for more of my projects, please see the <a href="/projects/" target="_blank"><b>projects</b></a> page.'
 
 - title: Honors and Awards
   type: table
@@ -129,26 +129,27 @@
   # - name: Operating Systems
   #   value: Ubuntu Linux, Windows
 
-- title: Relevant Coursework
+- title: Course Work
   type: table
   contents:
   - title: The University of British Columbia – B.A.Sc. in Engineering Physics
     year: 2018 - 
     location: Canada
     description:
+    - <a href="" target="_blank"><b>PHYS 502</b></a> - Condensed Matter Physics I, Marcel Franz
     - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20401/COM_PHYS%20401.pdf" target="_blank"><b>PHYS 401</b></a> - Electromagnetic Theory, Ariel Zhitnitsky
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20350/COM_PHYS%20350.pdf" target="_blank"><b>PHYS 350</b></a> - Applications of Classical Mechanics, Mona Berciu
     - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20304/COM_PHYS%20304.pdf" target="_blank"><b>PHYS 304</b></a> - Introduction to Quantum Mechanics, Ariel Zhitnitsky
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20301/PHYS301.pdf" target="_blank"><b>PHYS 301</b></a> - Electricity and Magnetism, Joerg Rottler
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20250/PHYS250.pdf" target="_blank"><b>PHYS 250</b></a> - Introduction to Modern Physics, Thomas Mattison  
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20301/PHYS301.pdf" target="_blank"><b>PHYS 301</b></a> - Electricity and Magnetism, Joerg Rottler
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20250/PHYS250.pdf" target="_blank"><b>PHYS 250</b></a> - Introduction to Modern Physics, Thomas Mattison
+    - <a href="" target="_blank"><b>MATH 400</b></a> - Applied Partial Differential Equations, Neil Balmforth  
     - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20305/COM_MATH%20305.pdf" target="_blank"><b>MATH 305</b></a> - Applied Complex Analysis, Sven Bachmann
     - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20307/MATH307.pdf" target="_blank"><b>MATH 307</b></a> - Applied Linear Algebra, Markus Lange
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20257/COM_MATH%20257.pdf" target="_blank"><b>MATH 257</b></a> - Partial Differential Equations, Shamil Asgarli
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20221/ELEC%20221.pdf" target="_blank"><b>ELEC 221</b></a> - Signals and Systems, Lutz Lampe
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20204/ELEC204.pdf" target="_blank"><b>ELEC 204</b></a> - Linear Circuits, Shahriar Mirabbasi
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20431/COM_MECH%20431.pdf" target="_blank"><b>MECH 431</b></a> - Engineering Economics, Mark Hollett
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20360/MECH360.pdf" target="_blank"><b>MECH 360</b></a> - Mechanics of Materials, Xiaoliang Jin
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/CPEN%20312/COM_CPEN%20312.pdf" target="_blank"><b>CPEN 312</b></a>  - Digital Systems and Microcomputer, Jesús Calviño-Fraga
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20257/COM_MATH%20257.pdf" target="_blank"><b>MATH 257</b></a> - Partial Differential Equations, Shamil Asgarli
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20221/ELEC%20221.pdf" target="_blank"><b>ELEC 221</b></a> - Signals and Systems, Lutz Lampe
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20204/ELEC204.pdf" target="_blank"><b>ELEC 204</b></a> - Linear Circuits, Shahriar Mirabbasi
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20431/COM_MECH%20431.pdf" target="_blank"><b>MECH 431</b></a> - Engineering Economics, Mark Hollett
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20360/MECH360.pdf" target="_blank"><b>MECH 360</b></a> - Mechanics of Materials, Xiaoliang Jin
+    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/CPEN%20312/COM_CPEN%20312.pdf" target="_blank"><b>CPEN 312</b></a>  - Digital Systems and Microcomputer, Jesús Calviño-Fraga
 
 # - title: Technical Projects
 #   type: table
