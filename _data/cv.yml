@@ -13,7 +13,7 @@
 - title: Research Interest
   type: list
   contents:
-  - Two-dimensional moiré materials, low-temperature transport
+  - Two-dimensional (moiré) materials, low-temperature transport, thermodynamic measurements, solid state quantum simulators
 - title: Education
   type: table
   contents:
@@ -113,13 +113,14 @@
 #     - Co-organized a competitive programming seminar at Politehnica University of Timisoara for university and high-school students interested to train for algorithmic competitions (e.g. ACM-ICPC, informatics olympiad).
 #     - Taught algorithms and data structures used in competitive programming, designed and solved practice problems and internal competitions.
 
-- title: Software skills
-  type: list
-  contents:
-  - '○ Programming languages: <code>C, C++, Igor Pro, Java, LaTex, MATLAB, Python, Processing, VHDL</code>'
-  - '○ Frameworks: <code>NumPy, SciPy, Pandas, QCoDeS</code>'
-  - '○ Applications: Blender, Adobe Illustrator, OneNote, Zotero, KLayout'
-  - '○ Operating Systems: Windows, Ubuntu Linux'  
+# - title: Software skills
+#   type: list
+#   contents:
+#   - '○ Programming languages: <code>C, C++, Igor Pro, Java, LaTex, MATLAB, Python, Processing, VHDL</code>'
+#   - '○ Frameworks: <code>NumPy, SciPy, Pandas, QCoDeS</code>'
+#   - '○ Applications: Blender, Adobe Illustrator, OneNote, Zotero, KLayout'
+#   - '○ Operating Systems: Windows, Ubuntu Linux'  
+
   # type: map
   # contents:
   # - name: Programming languages
