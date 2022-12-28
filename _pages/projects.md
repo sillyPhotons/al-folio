@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /Publications/
+title: Projects
+permalink: /Projects/
 description: Here's a peak into my ongoing and past projects! 🙂 
 nav: true
 display_categories: 
