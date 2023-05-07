@@ -14,11 +14,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an engineering physics undergraduate at the University of British Columbia, Vancouver, Canada. 
+I am an undergraduate student pursuing a degree in Engineering Physics at the University of British Columbia, Vancouver, Canada. 
 
-My current research is focused on studying strongly correlated electronic states of two dimensional moiré graphene superlattices through transport and thermodynamic measurements ☕. 
+My research is focused on probing emergent electronic phases in (twisted) graphene multilayers using low-temperature transport experiments. 
 
-I am actively seeking opportunities for graduate study in Physics for 2024! 
+I am actively seeking graduate opportunities in Physics for 2024! 
 
 <!-- Please feel free to contact me through <a href="mailto:raysu@student.ubc.ca">email</a> if you have any questions .  -->
 <!-- I appreciate a good cup of `coffee` ☕.  -->

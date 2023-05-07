@@ -5,14 +5,14 @@ title: Curriculum Vitae
 nav: cv
 ---
 
-_**Under construction!**_
+<!-- _**Under construction!**_ -->
 
 <!-- Place PDF download link at the top right. -->
-<div class="row" style="margin-top: -3.5em;">
+<!-- <div class="row" style="margin-top: -3.5em;">
 	<a class="ml-auto mr-2" href="/assets/pdf/RaySu_CV.pdf" target="_blank">
 	  <img height="60px" src="/assets/img/pdf_icon.svg">
 	</a>
-</div>
+</div> -->
 
 <div class="cv">
 	{% for entry in site.data.cv %}

@@ -54,7 +54,7 @@ gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: ruiheng-su-11973b202 # your LinkedIn user name
 scholar_userid: Z9fIlLcAAAAJ
-orcid_id: # your ORCID ID
+orcid_id: # 0000-0003-1135-0498
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -101,9 +101,9 @@ collections:
   #     layout: post
   #   output: true
   #   permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+  # projects:
+  #   output: true
+  #   permalink: /projects/:path/
 
 news_limit: 5
 

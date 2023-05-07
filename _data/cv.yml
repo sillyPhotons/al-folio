@@ -3,40 +3,40 @@
   contents:
   - name: Full Name
     value: Ruiheng Su
+  - name: Address
+    value: 2355 East Mall, The University of British Columbia, Vancouver, BC
   - name: Contact
-    value: <a href="mailto:raysu@student.ubc.ca">raysu@student.ubc.ca</a>
-  - name: Languages
-    value: Cantonese Chinese (native), English (native), Mandarin Chinese (fluent), French (beginner)
-  - name: Nationality
-    value: Canadian
+    value: <a href="mailto:ruihengsu@gmail.com">ruihengsu@gmail.com</a>
+  # - name: Languages
+  #   value: English (native), Cantonese/Mandarin Chinese (fluent), French (beginner)
+  # - name: Nationality
+  #   value: Canadian
 
-- title: Research Interest
-  type: list
-  contents:
-  - Two-dimensional (moiré) materials, low-temperature transport, thermodynamic measurements, solid state quantum simulators
 - title: Education
   type: table
   contents:
-  - title: The University of British Columbia – B.A.Sc. in Engineering Physics
+  - title: The University of British Columbia, Vancouver, BC, Canada
     year: 2018 - 
     location: Canada
-    # description:
-    # - "Dean's honours list"
+    description:
+    - "Bachelor of Applied Science in Engineering Physics"
+    - "GPA: 4.30/4.33 (Major) 4.20/4.33 (Cumulative)"
   
-- title: Work Experience
+- title: Professional Experience
   type: table
   contents:
-  - title: 'Quantum Devices Group, UBC'
+  - title: 'Undergraduate Research Assistant, Quantum Devices Group, UBC'
     year: 2021 - 
     location: Canada
     description:
       - 'Advised by <a href="https://scholar.google.com/citations?user=0D4-m-cAAAAJ" target="_blank"><b>Prof. Joshua Folk</b></a>' 
-      - 'Transport and thermodynamic measurements in twisted double bilayer graphene'
-      - "Assembly of van der Waals heterostructures"
-      - "Design and nanofabrication of twisted graphene devices and GaAs/AlGaAs quantum dots and point contacts"
-      # - "DC and AC electronic transport measurements in a dilution refrigerator"
-      # - "Design and fabrication of um-scale filters for electron thermalization"
-      - 'Developing measurement control software using <a href="https://github.com/QCoDeS/Qcodes" target="_blank"><b><code>QCoDeS</code></b></a> and <code>Igor Pro</code> '
+      - 'Low temperature transport measurements'
+      - "Assembly and fabrication of van der Waals heterostructures"
+      - "Photo- and electron beam lithography"
+    #   - "Design and nanofabrication of twisted graphene devices and GaAs/AlGaAs quantum dots and point contacts"
+    #   # - "DC and AC electronic transport measurements in a dilution refrigerator"
+    #   # - "Design and fabrication of um-scale filters for electron thermalization"
+    #   - 'Developing measurement control software using <a href="https://github.com/QCoDeS/Qcodes" target="_blank"><b><code>QCoDeS</code></b></a> and <code>Igor Pro</code> '
 
 # - title: Other Project Experience
 #   type: table
@@ -67,9 +67,17 @@
   #   - '<a href="https://www.gatescambridge.org/" target="_blank"><b>Gates Cambridge Scholarship</b></a> (2014)'
   #   - '<a href="https://www.womentechmakers.com/scholars" target="_blank"><b>Google Anita Borg Memorial Scholarship</b></a> (2013)'
   #   - '<a href="https://www.iie.org/Programs/GE-Foundation-Scholar-Leaders" target="_blank"><b>GE (General Electric) Foundation Scholar Leaders Program </b></a> (2012)'
-  - year: Awards
+  - year: 2023
     items:
-    - "Governor General's Academic Medal, Bronze (2018)"
+    - "Edward G. Auld Prize in Engineering Physics, UBC"
+    - "Undergraduate Student Research Award, Natural Sciences and Engineering Research Council of Canada"
+  - year: 2022
+    items:
+    - "Trek Excellence Scholarship, UBC"
+  - year: 2018
+    items:
+    - "Governor General's Academic Medal, Bronze"
+    - "British Columbia Government Scholarship"
     # - 'Best poster award at the Eastern European Machine Learning Summer School in Bucharest, Romania (2019)'
     # - 'Machine Learning Department Teaching Assistant Award (2018)'
     # - 'Carnegie Mellon University Neurohackathon: 2<sup>nd</sup> place (2017)'
@@ -89,6 +97,20 @@
     #       <li> Honorable Mention: 2010, 2008, 2007, 2003 </li>
     #     </ul>'
     # - 'Kangaroo International Mathematical Competition: 2<sup>nd</sup> prize in Romanian National Finals (2009, 2010)'
+
+- title: Publications
+  type: table
+  contents:
+  - year: 2022
+    items:
+    - "<b>Su, R.</b>, et al., <i>arXiv preprint arXiv:2211.16449</i>"
+
+- title: Contributed Talks
+  type: table
+  contents:
+  - year: 2023
+    items:
+    - "Superconductivity in Twisted Double Bilayer Graphene Stabilized by WSe<sub>2</sub>, <i>APS March Meeting, Las Vegas, NV, March 6-10th</i>"
 
 # - title: Teaching Experience
 #   type: table
@@ -130,27 +152,27 @@
   # - name: Operating Systems
   #   value: Ubuntu Linux, Windows
 
-- title: Course Work
-  type: table
-  contents:
-  - title: The University of British Columbia – B.A.Sc. in Engineering Physics
-    year: 2018 - 
-    location: Canada
-    description:
-    - <a href="" target="_blank"><b>PHYS 502</b></a> - Condensed Matter Physics I, Marcel Franz
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20401/COM_PHYS%20401.pdf" target="_blank"><b>PHYS 401</b></a> - Electromagnetic Theory, Ariel Zhitnitsky
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20304/COM_PHYS%20304.pdf" target="_blank"><b>PHYS 304</b></a> - Introduction to Quantum Mechanics, Ariel Zhitnitsky
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20301/PHYS301.pdf" target="_blank"><b>PHYS 301</b></a> - Electricity and Magnetism, Joerg Rottler
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20250/PHYS250.pdf" target="_blank"><b>PHYS 250</b></a> - Introduction to Modern Physics, Thomas Mattison
-    - <a href="" target="_blank"><b>MATH 400</b></a> - Applied Partial Differential Equations, Neil Balmforth  
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20305/COM_MATH%20305.pdf" target="_blank"><b>MATH 305</b></a> - Applied Complex Analysis, Sven Bachmann
-    - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20307/MATH307.pdf" target="_blank"><b>MATH 307</b></a> - Applied Linear Algebra, Markus Lange
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20257/COM_MATH%20257.pdf" target="_blank"><b>MATH 257</b></a> - Partial Differential Equations, Shamil Asgarli
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20221/ELEC%20221.pdf" target="_blank"><b>ELEC 221</b></a> - Signals and Systems, Lutz Lampe
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20204/ELEC204.pdf" target="_blank"><b>ELEC 204</b></a> - Linear Circuits, Shahriar Mirabbasi
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20431/COM_MECH%20431.pdf" target="_blank"><b>MECH 431</b></a> - Engineering Economics, Mark Hollett
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20360/MECH360.pdf" target="_blank"><b>MECH 360</b></a> - Mechanics of Materials, Xiaoliang Jin
-    # - <a href="https://github.com/sillyPhotons/Notes/blob/main/CPEN%20312/COM_CPEN%20312.pdf" target="_blank"><b>CPEN 312</b></a>  - Digital Systems and Microcomputer, Jesús Calviño-Fraga
+# - title: Course Work
+#   type: table
+#   contents:
+#   - title: The University of British Columbia – B.A.Sc. in Engineering Physics
+#     year: 2018 - 
+#     location: Canada
+#     description:
+#     - <a href="" target="_blank"><b>PHYS 502</b></a> - Condensed Matter Physics I, Marcel Franz
+#     - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20401/COM_PHYS%20401.pdf" target="_blank"><b>PHYS 401</b></a> - Electromagnetic Theory, Ariel Zhitnitsky
+#     - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20304/COM_PHYS%20304.pdf" target="_blank"><b>PHYS 304</b></a> - Introduction to Quantum Mechanics, Ariel Zhitnitsky
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20301/PHYS301.pdf" target="_blank"><b>PHYS 301</b></a> - Electricity and Magnetism, Joerg Rottler
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/PHYS%20250/PHYS250.pdf" target="_blank"><b>PHYS 250</b></a> - Introduction to Modern Physics, Thomas Mattison
+#     - <a href="" target="_blank"><b>MATH 400</b></a> - Applied Partial Differential Equations, Neil Balmforth  
+#     - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20305/COM_MATH%20305.pdf" target="_blank"><b>MATH 305</b></a> - Applied Complex Analysis, Sven Bachmann
+#     - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20307/MATH307.pdf" target="_blank"><b>MATH 307</b></a> - Applied Linear Algebra, Markus Lange
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MATH%20257/COM_MATH%20257.pdf" target="_blank"><b>MATH 257</b></a> - Partial Differential Equations, Shamil Asgarli
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20221/ELEC%20221.pdf" target="_blank"><b>ELEC 221</b></a> - Signals and Systems, Lutz Lampe
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/ELEC%20204/ELEC204.pdf" target="_blank"><b>ELEC 204</b></a> - Linear Circuits, Shahriar Mirabbasi
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20431/COM_MECH%20431.pdf" target="_blank"><b>MECH 431</b></a> - Engineering Economics, Mark Hollett
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/MECH%20360/MECH360.pdf" target="_blank"><b>MECH 360</b></a> - Mechanics of Materials, Xiaoliang Jin
+#     # - <a href="https://github.com/sillyPhotons/Notes/blob/main/CPEN%20312/COM_CPEN%20312.pdf" target="_blank"><b>CPEN 312</b></a>  - Digital Systems and Microcomputer, Jesús Calviño-Fraga
 
 # - title: Technical Projects
 #   type: table
@@ -199,9 +221,14 @@
 #     description: 'Volunteer for AIESEC, international youth organization.'
 #   - year: 2010 - 2012
 #     description: 'Volunteer for Liga AC, student organization at Politehnica University.'
+- title: Research Interest
+  type: list
+  contents:
+  - Transport and thermodynamic measurements in two-dimensional materials, quantum materials design, solid state quantum simulation
 
-- title: Other Interests
+- title: Other interests
   type: list
   contents:
   - 'Sports: hiking, badminton'
-  - 'Hobbies: arts and crafts, making coffee, cooking'
+  - 'Hobbies: brewing coffee, cooking, origami'
+  - "Music: Scotish bagpipes, piano"
