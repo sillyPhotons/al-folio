@@ -20,7 +20,7 @@
     location: Canada
     description:
     - "Bachelor of Applied Science in Engineering Physics"
-    - "GPA: 4.30/4.33 (Major) 4.20/4.33 (Cumulative)"
+    # - "GPA: 4.30/4.33 (Major) 4.20/4.33 (Cumulative)"
   
 - title: Professional Experience
   type: table
