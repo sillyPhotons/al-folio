@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an undergraduate student pursuing a degree in Engineering Physics at the University of British Columbia, Vancouver, Canada. My work focuses on probing emergent electronic phases in (twisted) graphene multilayers. I am actively seeking graduate opportunities in Physics for 2024! ☕
 
-A bit more about my research: I do transport experiments at low temperatures to gain insight into the electronic ground states of materials in their two-dimensional limit. In addition to studying their intrinsic properties, I can design heterostructures by stacking and rotationally misaligning 2D materials (specifically, graphene) on top of each other and create devices where the Fermi energy can be tuned to in situ to realize a plethora of symmetry broken and topological phases, such as magnetism and superconductivity.
+A bit more about my research: I use transport experiments at low temperatures and high magnetic fields to gain insight into the electronic ground states of materials in their two-dimensional limit. In addition to studying their intrinsic properties, I can create heterostructures by stacking and rotationally misaligning 2D materials (specifically, graphene) on top of each other and create devices where the Fermi energy can be tuned to in situ to realize a plethora of symmetry broken and topological phases, such as magnetism and superconductivity.
 
 <!-- Please feel free to contact me through <a href="mailto:raysu@student.ubc.ca">email</a> if you have any questions .  -->
 <!-- I appreciate a good cup of `coffee` ☕.  -->
