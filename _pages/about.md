@@ -6,7 +6,7 @@ subtitle: <a href='https://phas.ubc.ca/~qdev/'>Quantum Devices Group</a>, UBC, V
 
 profile:
   align: right
-  image: profile.png
+  image: profile.jpg
   address: 
   round: true
 news: false  # includes a list of news items
