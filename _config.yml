@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ruiheng
 middle_name:
 last_name: Su
-email: raysu@student.ubc.ca
+email: ruihengsu@gmail.com
 description: # the ">" symbol means to ignore newlines until "footer_text:"
   Hello! My name is Ray. 
 
@@ -96,11 +96,11 @@ pagination:
 # -----------------------------------------------------------------------------
 
 collections:
-  # news:
-  #   defaults:
-  #     layout: post
-  #   output: true
-  #   permalink: /news/:path/
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
   # projects:
   #   output: true
   #   permalink: /projects/:path/
