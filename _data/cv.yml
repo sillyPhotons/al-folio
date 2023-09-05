@@ -103,6 +103,7 @@
   contents:
   - year: 2022
     items:
+    - "<b>Su, R.</b>, et al., <i>Nat. Mater.</i> (2023)"
     - "<b>Su, R.</b>, et al., <i>arXiv preprint arXiv:2211.16449</i> (2022)"
 
 - title: Contributed Talks
@@ -112,28 +113,34 @@
     items:
     - "Superconductivity in Twisted Double Bilayer Graphene Stabilized by WSe<sub>2</sub>, <i>APS March Meeting, Las Vegas, NV, March 6-10th</i>"
 
-# - title: Teaching Experience
-#   type: table
-#   contents:
-#   - title: '<b>Teaching Assistant</b> for <b>Graduate Machine Learning</b>'
-#     year: Spring 2018
-#     location: USA
-#     description:
-#     - Graduate level introduction to machine learning class <a href="http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank"><b>10-701 Graduate Machine Learning</b></a> at Carnegie Mellon University
-#     - Taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank"><b>Prof. Pradeep Ravikumar</b></a> and <a href="https://www.cs.cmu.edu/~mmv/" target="_blank"><b>Prof. Manuela Veloso</b></a>
-#     - I was awarded a Machine Learning Department <a href="https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html" target="_blank"><b>Teaching Assistant Award</b></a>
-#   - title: '<b>Teaching Assistant</b> for <b>Topics in Deep Learning</b>'
-#     year: Fall 2017
-#     location: USA
-#     description:
-#     - Graduate level deep learning class <a href="http://www.cs.cmu.edu/~rsalakhu/10707/" target="_blank"><b>10-707 Topics in Deep Learning</b></a> at Carnegie Mellon University
-#     - Taught by <a href="https://www.cs.cmu.edu/~rsalakhu/" target="_blank"><b>Prof. Ruslan Salakhutdinov</b></a>
-#   - title: 'Teaching algorithms for competitive programming'
-#     year: 2013 - 2014
-#     location: Romania
-#     description:
-#     - Co-organized a competitive programming seminar at Politehnica University of Timisoara for university and high-school students interested to train for algorithmic competitions (e.g. ACM-ICPC, informatics olympiad).
-#     - Taught algorithms and data structures used in competitive programming, designed and solved practice problems and internal competitions.
+- title: Poster Presentations
+  type: table
+  contents:
+  - year: 2023
+    items:
+    - "Electronic phases of twisted double bilayer graphene on WSe<sub>2</sub>, <i>Canadian Institute for Advanced Research (CIFAR) Quantum Materials Program Spring School, Montreal, QC, May 8-12th</i>"
+
+- title: Teaching Experience
+  type: table
+  contents:
+  - title: '<b>T.A.</b> for <b>Introductory Physics Laboratory for Engineers</b>'
+    year: 2020
+    location: UBC
+    description:
+    - Created instructional materials and UI features for a portable Arduino oscilloscope, aiding first-year engineering students during a swift transition to remote learning prompted by the COVID-19 pandemic (<a href="https://github.com/sillyPhotons/oscilloscope/">GitHub Repo</a>)
+
+  # - title: '<b>Teaching Assistant</b> for <b>Topics in Deep Learning</b>'
+  #   year: Fall 2017
+  #   location: USA
+  #   description:
+  #   - Graduate level deep learning class <a href="http://www.cs.cmu.edu/~rsalakhu/10707/" target="_blank"><b>10-707 Topics in Deep Learning</b></a> at Carnegie Mellon University
+  #   - Taught by <a href="https://www.cs.cmu.edu/~rsalakhu/" target="_blank"><b>Prof. Ruslan Salakhutdinov</b></a>
+  # - title: 'Teaching algorithms for competitive programming'
+  #   year: 2013 - 2014
+  #   location: Romania
+  #   description:
+  #   - Co-organized a competitive programming seminar at Politehnica University of Timisoara for university and high-school students interested to train for algorithmic competitions (e.g. ACM-ICPC, informatics olympiad).
+  #   - Taught algorithms and data structures used in competitive programming, designed and solved practice problems and internal competitions.
 
 # - title: Software skills
 #   type: list
